@@ -19,6 +19,6 @@ Control your LED from anywhere with just a tap! 🌐 This project uses the XIAO 
 ---
 
 ## Circuit Diagram
-![Blynk control led Circuit](./mini-piano-diagram.jpeg)
+![Blynk control led Circuit](./blynk_control_led_circuit_diagram.png)
 
 ---
